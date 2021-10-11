@@ -1,5 +1,5 @@
 ### Hi there, I am Margareth 👋
-- I have been working on technical field for about 15 years as a Systems Engineer/Application Support/Site Reliability Engineer. Never coded before, and after the re-org on my last employer, my job was outsourced to a consulting company, I realized I need to get my skills in check. I decided to join a bootcamp program to learn how to code. That made me fall in love with programming and now want to re-invent my career to become a software engineer.
+
 - Recently, I just completed a 17 week immersive software engineering program centered on fullstack at the Grace Hopper program at FullStack Academy where I learned JavaScript/React/Redux/Node.js and so much more.
 - I've worked on a few projects during that time:
 
